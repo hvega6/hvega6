@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hvega6
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning hacks and modding
-- 💞️ I’m looking to collaborate on web pen testing
+- 🌱 I’m currently learning front end development in html,css,js and react-native
+- 💞️ I’m looking to learn more about being a great software engineer
 - 📫 How to reach me www.vegamarketing.xyz @notyourpapi#2464
 
 <!---
