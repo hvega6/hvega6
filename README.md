@@ -46,8 +46,7 @@ contributions](https://img.shields.io/github/contributions/hvega6/2022?style=soc
 
 ## Contact Me
 
-**[LinkedIn](https://www.linkedin.com/in/hugo-vega/) | [GitHub](https://github.com/hvega6) |
-[Twitter](https://twitter.com/your_username)**
+**[LinkedIn](https://www.linkedin.com/in/hhttps://www.linkedin.com/in/hugo-vega-4b101b20b//) | [GitHub](https://github.com/hvega6)**
 
 If you're looking for a skilled Full Stack Developer to bring your project to life, don't hesitate to reach out.
 Let's collaborate and create something amazing together!
