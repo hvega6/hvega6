@@ -1,12 +1,12 @@
 # 👾 Hugo Vega - Junior Fullstack Developer
 
-## 📢 About Me
+🚀 **About Me**
 
-📫 How to reach me: [hugosportfolio.netlify.app](https://hugosportfolio.netlify.app/) | @notyourpapi#2464
-**Full Stack Web Developer**
+[![Hugo Vega
+Profile](https://avatars.githubusercontent.com/u/1234567?s=200&v=4)](https://hugosportfolio.netlify.app/)
 
-Hi, I'm Hugo Vega! I'm a passionate Full Stack Developer specializing in crafting web applications with
-cutting-edge technologies. My expertise spans:
+Hi, I'm Hugo Vega! A Full Stack Developer with a passion for crafting web applications with cutting-edge
+technologies. My expertise spans:
 
 - **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - **Python**
@@ -15,6 +15,9 @@ cutting-edge technologies. My expertise spans:
 - **MongoDB** as the database
 - **Discord API** for real-time communication
 - **React** for building interactive UIs
+
+📫 **How to reach me:**
+[Portfolio](https://hugosportfolio.netlify.app/) | [@notyourpapi#2464]
 
 ---
 
@@ -32,8 +35,8 @@ cutting-edge technologies. My expertise spans:
 
 ### Languages
 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3%20-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3%20-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -58,10 +61,9 @@ contributions](https://img.shields.io/github/contributions/hvega6/2022?style=soc
 
 ## 📧 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/[hugo-vega](https://www.linkedin.com/in/hugo-vega-4b101b20b/)/) | [GitHub](https://github.com/hvega6) |
+[LinkedIn](https://www.linkedin.com/in/hugo-vega-4b101b20b/) | [GitHub](https://github.com/hvega6) |
 
-If you're looking for a skilled Full Stack Developer to bring your project to life, let's collaborate and create
-something amazing together!
+Let's collaborate and create something amazing together! Drop me a line.
 
 ---
 
